@@ -1,4 +1,4 @@
-🏠 Project Title
+🏠Project Title
 
 House Price Prediction
 
@@ -91,8 +91,9 @@ House-Price-Prediction/
 - Flask
 - Scikit-learn
 - Pandas
-- NumPy
+- NumPy 
 - MySQL
+
 🗂️ ER diagram
 USER
 ↓
@@ -101,6 +102,7 @@ HOUSE DATASET
 MACHINE LEARNING MODEL
 ↓
 PREDICTION RESULT
+
 
 🌟 Real-World Implementation
 
